@@ -1,0 +1,12 @@
+/*
+!.gitignore
+
+!README.md
+!TFG_presentacio.pdf
+!TFG-Limon-Valles-Miquel.pdf
+!codi_TFG/
+!codi_TFG/**
+
+/codi_TFG/converged/
+/codi_TFG/figures_OBC/
+/codi_TFG/processed/
